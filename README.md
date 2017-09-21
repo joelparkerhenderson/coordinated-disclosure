@@ -7,15 +7,15 @@ DRAFT 1 - REQUEST FOR COMMENTS - WORK IN PROGRESS - CONSTRUCTIVE CRITICISM WELCO
 Responsbile disclosure is a computer security term. It describes how people can share reports about security issues. Examples are bug reports, intrusion risks, hacking warnings, etc.
 
 
-## What is this responsbile disclosure document?
+## What is this document?
 
 This document explains responsible disclosure in ways that may help people work together.
 
 Document goals:
 
-1. Help people who discover security issues, and want to report them, and want to be able to point here as a reference document. We welcome advice for how to improve this.
+1. Help people who discover security issues and want to report them.
 
-2. Help companies understand what they need to do for responsbile disclosure. If you're reading this because someone pointed you to it, and there's anything that you want to know more about, please let us know and we'll do our best to help.
+2. Help companies understand responsbile disclosure needs, goals, practices, and special cases.
 
 3. Include example responsible disclosure policies in the repository folder.
 
