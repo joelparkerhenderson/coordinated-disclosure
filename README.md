@@ -15,7 +15,7 @@ Document goals:
 
 1. Help people who discover security issues and want to report them.
 
-2. Help companies understand responsbile disclosure needs, goals, practices, and special cases.
+2. Help companies' representatives understand responsbile disclosure needs, goals, practices, and special cases.
 
 3. Include example responsible disclosure policies in the repository folder.
 
