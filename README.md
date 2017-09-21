@@ -79,7 +79,7 @@ Steps:
     * For example this is bad: general-purpose wording, such as "We appreciate your business", or pass-the-buck wording such as "We sent your email to another department".
 
 
-## What do the discover and producer boh need to do?
+## What do the discover and producer both need to do?
 
 1. Understand that responsible disclosure describes a good faith process.
 
