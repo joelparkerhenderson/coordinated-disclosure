@@ -1,4 +1,6 @@
-# Responsbile disclosure
+# Responsible disclosure
+
+<img src="README.png" alt="Security icon" width="96" height="118"/>
 
 DRAFT 1 - REQUEST FOR COMMENTS - WORK IN PROGRESS - CONSTRUCTIVE CRITICISM WELCOME
 
