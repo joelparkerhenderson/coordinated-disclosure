@@ -35,13 +35,13 @@ Steps:
 3. After a given amount of time, then the security issue is made public. 
 
 
-## What does the discoverer need to do?
+## What does the discoverer do?
 
 1. Report the issue privately in good faith.
 
-    * For example this is good: an email sent to the producer's security contact, such as "security@example.com".
+    * For example this is good: an email sent to the producer's security contact, such as "security@example.com", with any relevant info, and any relevant questions.
 
-    * For example these are bad: posting the report on a public blog, or alerting the media, or threats, or attempts to sell the security issue to hackers, etc.
+    * For example these are typically not good: posting the report on a public blog, or alerting the media, or threats, or attempts to sell the security issue to hackers, etc.
 
     * Pro tip: the discoverer may choose to be anonymous; the producer may also choose to be anonymous.
 
@@ -49,7 +49,7 @@ Steps:
 
     * For example these are good: opening lines of communication, or providing followup information, or 
 
-    * For example these are bad: forgetting about the issue. 
+    * For example these are typically not good: forgetting about the issue. 
 
     * Pro tip: the discoverer may choose to help or not, and also may choose to be in communication or not, and also may choose to change the arrangement if circumstances change.
 
@@ -57,16 +57,18 @@ Steps:
 
     * For example these are good: waiting the specified amount of time then going public, such as posting the relevant information to a security news site, or contacting relevant third-party security researchers, or announcing the issue on any public social site, etc.
 
-    * For example these are bad: not disclosing the issue to others, unless you feel it would cause more than the comparable amount of risk to yourself or others.
+    * For example these are typically not good: not disclosing the issue to others, unless you feel it would cause more than the comparable amount of risk to yourself or others.
 
     * Pro tip: if circumstances change, such as discovery of a higher risk or active exploit in the wild, then the discoverer may disclose the issue to others sooner.
 
 
-## What does the producer need to do?
+## What does the producer do?
 
 1. Respond within the timeline. 
 
     * If the discoverer does not specify a timeline, then use one business day, because this is industry standard and current industry best practice.
+
+    * If the discoverer asks questions, answer them. This is especially important if the discoverer asks for permission to test. Ensure all all answers are clear and direct.
 
 2. Respond via an authorized security contact and/or authorized security process.
 
@@ -81,11 +83,11 @@ Steps:
     * For example this is bad: general-purpose wording, such as "We appreciate your business", or pass-the-buck wording such as "We sent your email to another department".
 
 
-## What do the discover and producer both need to do?
+## What do the discover and producer both do?
 
 1. Understand that coordinated disclosure describes a good faith process.
 
-    * The #1 goal is good faith to help users protect themsevles from security risks.
+    * The #1 goal is good faith to help users protect themselves from security risks.
 
     * The #2 goal is good faith to address the security issue.
 
@@ -105,9 +107,15 @@ Steps:
 
 4. Understand that coordinated disclosure may mean different things to different people.
 
-    * The discoverer and producer may have different understanding of responsble disclosure. These understandings may not align with each other. Good faith includes everyone involved understanding this.
+    * The discoverer and producer may have different understanding of coordinated disclosure. These understandings may not align with each other. Good faith includes everyone involved understanding this.
 
     * Some producers publish coordinated disclosure policies. These can be helpful guidance. If a discoverer chooses to use a different kind of coordinated disclosure, or has a different understanding of responsbility disclosure, this is absolutely fine. 
+
+5. Understand that typically the discoverer is doing a favor for the publisher.
+
+    * Typically the discoverer does not need anyone's permission to publish vulnerabilities.
+
+    * Typically the discoverer's information helps the publisher.
 
 
 ## Guidance
