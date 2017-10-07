@@ -4,7 +4,7 @@
 
 DRAFT 2 - REQUEST FOR COMMENTS - WORK IN PROGRESS - CONSTRUCTIVE CRITICISM WELCOME
 
-Coordinated disclosure is a computer security term. It describes how people can share reports about security issues. Examples are bug reports, intrusion risks, hacking warnings, etc. 
+Coordinated disclosure is a computer security term. It describes how people can share reports about security issues. Examples are bug reports, intrusion risks, hacking warnings, data leaks, website breaches, etc. 
 
 
 ## What is this document?
