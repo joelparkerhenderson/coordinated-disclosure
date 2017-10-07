@@ -1,15 +1,15 @@
-# Responsible disclosure
+# Coordinated disclosure
 
 <img src="README.png" alt="Security icon" width="96" height="118"/>
 
-DRAFT 1 - REQUEST FOR COMMENTS - WORK IN PROGRESS - CONSTRUCTIVE CRITICISM WELCOME
+DRAFT 2 - REQUEST FOR COMMENTS - WORK IN PROGRESS - CONSTRUCTIVE CRITICISM WELCOME
 
-Responsbile disclosure is a computer security term. It describes how people can share reports about security issues. Examples are bug reports, intrusion risks, hacking warnings, etc.
+Coordinated disclosure is a computer security term. It describes how people can share reports about security issues. Examples are bug reports, intrusion risks, hacking warnings, etc. 
 
 
 ## What is this document?
 
-This document explains responsible disclosure in ways that may help people work together.
+This document explains coordinated disclosure in ways that may help people work together.
 
 Document goals:
 
@@ -17,14 +17,14 @@ Document goals:
 
 2. Help companies' representatives understand responsbile disclosure needs, goals, practices, and special cases.
 
-3. Include example responsible disclosure policies in the repository folder.
+3. Include example coordinated disclosure policies in the repository folder.
 
 We welcome pull requests, or GitHub issues, or email to security@joelparkerhenderson.com.
 
 
-## What is responsible disclosure?
+## What is coordinated disclosure?
 
-Responsible disclosure describes three steps when someone discovers a security issue (such as a software bug) and wants to report it to the producer (such as the company that makes the softare).
+Coordinated disclosure describes three steps when someone discovers a security issue (such as a software bug) and wants to report it to the producer (such as the company that makes the softare).
 
 Steps:
 
@@ -83,7 +83,7 @@ Steps:
 
 ## What do the discover and producer both need to do?
 
-1. Understand that responsible disclosure describes a good faith process.
+1. Understand that coordinated disclosure describes a good faith process.
 
     * The #1 goal is good faith to help users protect themsevles from security risks.
 
@@ -91,28 +91,28 @@ Steps:
 
     * The discoverer and/or producer may choose in good faith to involve other security people, such as contacting other relevant security researchers to help with the issue.
 
-2. Understand that responsible disclosure does not create any obligation. 
+2. Understand that coordinated disclosure does not create any obligation. 
 
     * The discoverer and/or producer may opt-out at any time, for any reason, with or without warning. It's courteous to keep all the relevant people informed and up to date, yet this isn't always possible, or practical, or desirable.
 
-    * Responsible disclosure does not create any legal agreement. If the discoverer and the producer already have a legal agreement, then we suggest that everyone involved consult the appropriate lawyers; do not use this document as legal advice.
+    * Coordinated disclosure does not create any legal agreement. If the discoverer and the producer already have a legal agreement, then we suggest that everyone involved consult the appropriate lawyers; do not use this document as legal advice.
 
-3. Understand that responsible disclosure aims to use good communication and aims to reject threats.
+3. Understand that coordinated disclosure aims to use good communication and aims to reject threats.
 
-    * Responsible disclosure is best when everyone involved understands that the #1 goal is to help users protect themselves from security risks, and the #2 goal is to address the security issue.
+    * Coordinated disclosure is best when everyone involved understands that the #1 goal is to help users protect themselves from security risks, and the #2 goal is to address the security issue.
 
-    * Responsible disclosure rejects any kind of threat of retribution, intimidation, suspension, revocation, extortion, burden to follow up, or victim blaming.
+    * Coordinated disclosure rejects any kind of threat of retribution, intimidation, suspension, revocation, extortion, burden to follow up, or victim blaming.
 
-4. Understand that responible disclosure may mean different things to different people.
+4. Understand that coordinated disclosure may mean different things to different people.
 
     * The discoverer and producer may have different understanding of responsble disclosure. These understandings may not align with each other. Good faith includes everyone involved understanding this.
 
-    * Some producers publish responsible disclosure policies. These can be helpful guidance. If a discoverer chooses to use a different kind of responsible disclosure, or has a different understanding of responsbility disclosure, this is absolutely fine. 
+    * Some producers publish coordinated disclosure policies. These can be helpful guidance. If a discoverer chooses to use a different kind of coordinated disclosure, or has a different understanding of responsbility disclosure, this is absolutely fine. 
 
 
 ## Guidance
 
-Guidance for responsible disclosure can come from many areas, such as ethics experts, legal advocates, the general public's reasonable expectations, etc.
+Guidance for coordinated disclosure can come from many areas, such as ethics experts, legal advocates, the general public's reasonable expectations, etc.
 
 If you are seeking guidance, then you may be interested in these three areas, all describe below.
 
@@ -128,13 +128,11 @@ https://en.wikipedia.org/wiki/Good_Samaritan_law
 Good Samaritan laws offer legal protection to people who give reasonable assistance to those who are, or who they believe to be, injured, ill, in peril, or otherwise incapacitated. The protection is intended to reduce bystanders' hesitation to assist, for fear of being sued or prosecuted. 
 
 
-
 ### Duty to rescue
 
 https://en.wikipedia.org/wiki/Duty_to_rescue
 
 A duty to rescue is a concept describing a circumstance in which a party can be held liable for failing to come to the rescue of another party in peril. A duty to rescue may have moral areas and/or legal areas. 
-
 
 
 ### Duty of care
@@ -213,11 +211,22 @@ Example: you are skilled enough to be able to write a virus that you believe is 
   * Is it OK for the discover to point users to software like this, and/or to guides or tutorials that describe how to create this kind of software?
 
 
+## Coordinated disclosure vs. responsible disclosure
+
+Coordinated disclosure is the preferred term. 
+
+  * The most important aspect is the coordination between discoverer and producer.
+
+Responsible disclosure is a deprecated term.
+
+  * People have different views of what it means to be responsible. For example, some people advocate that it is responsible for the discoverer to notify the public immediately regardless of any interaction with the producer, and irresponsible to do coordinated disclosure because it hides information from the public.
+
+
 ## Tracking
 
-* Package: responsible_disclosure
-* Version: 1.0.0-alpha
+* Package: coordinated_disclosure
+* Version: 2.1.0
 * Created: 2017-09-21
-* Updated: 2017-09-21
+* Updated: 2017-10-07
 * Contact: Joel Parker Henderson (http://joelparkerhenderson.com)
 * License: GPL
