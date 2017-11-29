@@ -39,27 +39,27 @@ Steps:
 
 1. Report the issue privately in good faith.
 
-    * For example this is good: an email sent to the producer's security contact, such as "security@example.com", with any relevant info, and any relevant questions.
+    * Typically good: an email sent to the producer's security contact, such as "security@example.com", with any relevant info, and any relevant questions.
 
-    * For example these are typically not good: posting the report on a public blog, or alerting the media, or threats, or attempts to sell the security issue to hackers, etc.
+    * Typically not good: posting the report on a public blog, or alerting the media, or threats, or attempts to sell the security issue to hackers, etc.
 
-    * Pro tip: the discoverer may choose to be anonymous; the producer may also choose to be anonymous.
+    * Tip: the discoverer may choose to be anonymous; the producer may also choose to be anonymous.
 
 2. If you want, continue to be aware of the issue. 
 
-    * For example these are good: opening lines of communication, or providing followup information, or 
+    * Typically good: opening lines of communication, or providing followup information, or monitoring the situtation.
 
-    * For example these are typically not good: forgetting about the issue. 
+    * Typically not good: forgetting about the issue, 
 
     * Pro tip: the discoverer may choose to help or not, and also may choose to be in communication or not, and also may choose to change the arrangement if circumstances change.
 
 3. If you want, disclose the issue to others.
 
-    * For example these are good: waiting the specified amount of time then going public, such as posting the relevant information to a security news site, or contacting relevant third-party security researchers, or announcing the issue on any public social site, etc.
+    * Typically good: waiting the specified amount of time then going public, such as posting the relevant information to a security news site, or contacting relevant third-party security researchers, or announcing the issue on any public social site, etc.
 
-    * For example these are typically not good: not disclosing the issue to others, unless you feel it would cause more than the comparable amount of risk to yourself or others.
+    * Typically not good: not disclosing the issue to others, unless you feel it would cause more than the comparable amount of risk to yourself or others.
 
-    * Pro tip: if circumstances change, such as discovery of a higher risk or active exploit in the wild, then the discoverer may disclose the issue to others sooner.
+    * Tip: if circumstances change, such as discovery of a higher risk or active exploit in the wild, then the discoverer may disclose the issue to others sooner.
 
 
 ## What does the producer do?
@@ -78,9 +78,9 @@ Steps:
 
 3. Respond that the issue is recognized as a security report.
 
-    * For example this is good: security-specific wording, such as "Our security team has received your reponsible disclosure report".
+    * Typically good: security-specific wording, such as "Our security team has received your reponsible disclosure report".
 
-    * For example this is bad: general-purpose wording, such as "We appreciate your business", or pass-the-buck wording such as "We sent your email to another department".
+    * Typically not good: general-purpose wording, such as "We appreciate your business", or pass-the-buck wording such as "We sent your email to another department".
 
 
 ## What do the discover and producer both do?
@@ -233,8 +233,8 @@ Responsible disclosure is a deprecated term.
 ## Tracking
 
 * Package: coordinated_disclosure
-* Version: 2.1.0
+* Version: 2.1.1
 * Created: 2017-09-21
-* Updated: 2017-10-07
+* Updated: 2017-11-27
 * Contact: Joel Parker Henderson (http://joelparkerhenderson.com)
 * License: GPL
