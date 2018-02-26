@@ -1,10 +1,17 @@
+<!--
+  * browser: coordinated-disclosure
+  * tracker: f44c30d1b876f8987cf78c727e573542
+  * version: 2.4.0
+  * updated: 2018-02-24T03:07:24Z
+  * contact: Joel Parker Henderson (http://joelparkerhenderson.com)
+  * options: commentable
+-->
+
 # Coordinated disclosure
 
 <img src="README.png" alt="Security icon" width="96" height="118"/>
 
-DRAFT 2 - REQUEST FOR COMMENTS - WORK IN PROGRESS - CONSTRUCTIVE CRITICISM WELCOME
-
-Coordinated disclosure is a computer security term. It describes how people can share reports about security issues. Examples are bug reports, intrusion risks, hacking warnings, data leaks, website breaches, etc. 
+Coordinated disclosure is a computer security term. It describes how people can share reports about security issues. Examples are bug reports, intrusion risks, hacking warnings, data leaks, website breaches, etc.
 
 
 ## What is this document?
@@ -28,11 +35,11 @@ Coordinated disclosure describes three steps when someone discovers a security i
 
 Steps:
 
-1. The discoverer reports the issue privately in good faith to the producer. 
+1. The discoverer reports the issue privately in good faith to the producer.
 
 2. The producer tries to protect users in good faith and tries to address the issue.
 
-3. After a given amount of time, then the security issue is made public. 
+3. After a given amount of time, then the security issue is made public.
 
 
 ## What does the discoverer do?
@@ -45,11 +52,11 @@ Steps:
 
     * Tip: the discoverer may choose to be anonymous; the producer may also choose to be anonymous.
 
-2. If you want, continue to be aware of the issue. 
+2. If you want, continue to be aware of the issue.
 
     * Typically good: opening lines of communication, or providing followup information, or monitoring the situtation.
 
-    * Typically not good: forgetting about the issue, 
+    * Typically not good: forgetting about the issue,
 
     * Pro tip: the discoverer may choose to help or not, and also may choose to be in communication or not, and also may choose to change the arrangement if circumstances change.
 
@@ -64,7 +71,7 @@ Steps:
 
 ## What does the producer do?
 
-1. Respond within the timeline. 
+1. Respond within the timeline.
 
     * If the discoverer does not specify a timeline, then use one business day, because this is industry standard and current industry best practice.
 
@@ -93,7 +100,7 @@ Steps:
 
     * The discoverer and/or producer may choose in good faith to involve other security people, such as contacting other relevant security researchers to help with the issue.
 
-2. Understand that coordinated disclosure does not create any obligation. 
+2. Understand that coordinated disclosure does not create any obligation.
 
     * The discoverer and/or producer may opt-out at any time, for any reason, with or without warning. It's courteous to keep all the relevant people informed and up to date, yet this isn't always possible, or practical, or desirable.
 
@@ -109,7 +116,7 @@ Steps:
 
     * The discoverer and producer may have different understanding of coordinated disclosure. These understandings may not align with each other. Good faith includes everyone involved understanding this.
 
-    * Some producers publish coordinated disclosure policies. These can be helpful guidance. If a discoverer chooses to use a different kind of coordinated disclosure, or has a different understanding of responsbility disclosure, this is absolutely fine. 
+    * Some producers publish coordinated disclosure policies. These can be helpful guidance. If a discoverer chooses to use a different kind of coordinated disclosure, or has a different understanding of responsbility disclosure, this is absolutely fine.
 
 5. Understand that typically the discoverer is doing a favor for the publisher.
 
@@ -133,14 +140,14 @@ If you are seeking guidance, then you may be interested in these three areas, al
 
 https://en.wikipedia.org/wiki/Good_Samaritan_law
 
-Good Samaritan laws offer legal protection to people who give reasonable assistance to those who are, or who they believe to be, injured, ill, in peril, or otherwise incapacitated. The protection is intended to reduce bystanders' hesitation to assist, for fear of being sued or prosecuted. 
+Good Samaritan laws offer legal protection to people who give reasonable assistance to those who are, or who they believe to be, injured, ill, in peril, or otherwise incapacitated. The protection is intended to reduce bystanders' hesitation to assist, for fear of being sued or prosecuted.
 
 
 ### Duty to rescue
 
 https://en.wikipedia.org/wiki/Duty_to_rescue
 
-A duty to rescue is a concept describing a circumstance in which a party can be held liable for failing to come to the rescue of another party in peril. A duty to rescue may have moral areas and/or legal areas. 
+A duty to rescue is a concept describing a circumstance in which a party can be held liable for failing to come to the rescue of another party in peril. A duty to rescue may have moral areas and/or legal areas.
 
 
 ### Duty of care
@@ -152,7 +159,7 @@ A duty of care is obligation to a standard of reasonable care while performing a
 
 ## Special cases
 
-Our security teams have a seen a wide range of special cases. 
+Our security teams have a seen a wide range of special cases.
 
 We describe them here to help people understand where there are a wide range of opinions on what may be OK and what may not be OK. We recommend that everyone involved communicate in good faith about these.
 
@@ -183,7 +190,7 @@ Example: you try to report a security issue to people in the company who you thi
 
   * Is this OK?
 
-  * Is this considered unsolicited email? 
+  * Is this considered unsolicited email?
 
   * Is this considered unauthorized email?
 
@@ -199,7 +206,7 @@ Example: you're in an excluded group, such as being a minor, or on a santion lis
   * Is it OK to deliberately change potentially-identifying information, such as to escape the excluded group, and with the goal to help the disclosure reach the right people?
 
 
-### Third-party 
+### Third-party
 
 Example: you discover that a company's sofware has a bug involving a third-party, such as an integration with another piece of software or another website.
 
@@ -221,7 +228,7 @@ Example: you are skilled enough to be able to write a virus that you believe is 
 
 ## Coordinated disclosure vs. responsible disclosure
 
-Coordinated disclosure is the preferred term. 
+Coordinated disclosure is the preferred term.
 
   * The most important aspect is the coordination between discoverer and producer.
 
