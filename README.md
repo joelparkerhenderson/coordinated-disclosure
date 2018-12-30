@@ -1,12 +1,3 @@
-<!--
-  * browser: coordinated-disclosure
-  * tracker: f44c30d1b876f8987cf78c727e573542
-  * version: 2.4.0
-  * updated: 2018-02-24T03:07:24Z
-  * contact: Joel Parker Henderson (http://joelparkerhenderson.com)
-  * options: commentable
--->
-
 # Coordinated disclosure
 
 <img src="README.png" alt="Security icon" width="96" height="118"/>
@@ -242,8 +233,11 @@ Responsible disclosure is a deprecated term.
 ## Tracking
 
 * Package: coordinated_disclosure
-* Version: 2.1.1
+* Website: http://joelparkerhenderson.com/coordinated-disclosure
+* Cloning: http://github.com/joelparkerhenderson/coordinated-disclosure
+* Version: 2.5.0
 * Created: 2017-09-21
-* Updated: 2017-11-27
-* Contact: Joel Parker Henderson (http://joelparkerhenderson.com)
+* Updated: 2019-01-01
 * License: GPL
+* Contact: Joel Parker Henderson (http://joelparkerhenderson.com)
+* Tracker: f44c30d1b876f8987cf78c727e573542
