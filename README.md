@@ -255,8 +255,8 @@ Responsible disclosure is a deprecated term.
 ## Tracking
 
 * Package: coordinated_disclosure
-* Website: http://joelparkerhenderson.com/coordinated-disclosure
-* Cloning: https://github.com/joelparkerhenderson/coordinated-disclosure
+* Website: http://joelparkerhenderson.com/coordinated_disclosure
+* Cloning: https://github.com/joelparkerhenderson/coordinated_disclosure
 * Version: 2.5.0
 * Created: 2017-09-21
 * Updated: 2019-01-01
