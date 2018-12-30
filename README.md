@@ -5,7 +5,29 @@
 Coordinated disclosure is a computer security term. It describes how people can share reports about security issues. Examples are bug reports, intrusion risks, hacking warnings, data leaks, website breaches, etc.
 
 
-## What is this document?
+Contents:
+
+* [Introduction](#introduction)
+* [What is coordinated disclosure?](#what-is-coordinated-disclosure)
+* [What does the discoverer do?](#what-does-the-discoverer-do)
+* [What does the producer do?](#what-does-the-producer-do)
+* [What do the discover and producer both do?](#what-do-the-discover-and-producer-both-do)
+* [Guidance](#guidance)
+  * [Good Samaritan](#good-samaritan)
+  * [Duty to rescue](#duty-to-rescue)
+  * [Duty of care](#duty-of-care)
+* [Special cases](#special-cases)
+  * [Accessing other users' information](#accessing-other-users-information)
+  * [Denial of service](#denial-of-service)
+  * [Unsolicited email](#unsolicited-email)
+  * [Excluded groups](#excluded-groups)
+  * [Third-party](#third-party)
+  * [Disruptive software](#disruptive-software)
+* [Coordinated disclosure vs. responsible disclosure](#coordinated-disclosure-vs-responsible-disclosure)
+* [Tracking](#tracking)
+
+
+## Introduction
 
 This document explains coordinated disclosure in ways that may help people work together.
 
