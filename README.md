@@ -153,21 +153,21 @@ If you are seeking guidance, then you may be interested in these three areas, al
 
 ### Good Samaritan
 
-https://en.wikipedia.org/wiki/Good_Samaritan_law
+[Wikipedia: Good Samaritan law](https://wikipedia.org/wiki/Good_Samaritan_law)
 
 Good Samaritan laws offer legal protection to people who give reasonable assistance to those who are, or who they believe to be, injured, ill, in peril, or otherwise incapacitated. The protection is intended to reduce bystanders' hesitation to assist, for fear of being sued or prosecuted.
 
 
 ### Duty to rescue
 
-https://en.wikipedia.org/wiki/Duty_to_rescue
+[Wikipedia: Duty to rescue](https://wikipedia.org/wiki/Duty_to_rescue)
 
 A duty to rescue is a concept describing a circumstance in which a party can be held liable for failing to come to the rescue of another party in peril. A duty to rescue may have moral areas and/or legal areas.
 
 
 ### Duty of care
 
-https://en.wikipedia.org/wiki/Duty_of_care
+[Wikipedia: Duty of care](https://wikipedia.org/wiki/Duty_of_care)
 
 A duty of care is obligation to a standard of reasonable care while performing any acts that could foreseeably harm others. A duty of care may have moral areas and/or legal areas. Some aspects to consider are: the foreseeability of the harm or injury, the possible magnitude of the potential harm or injury, the importance or social value of the activity engaged in by the defendant, the usefulness of the conduct to the defendant, the feasibility of alternative conduct, the costs and burdens associated with the alternative conduct, the relative usefulness of the alternative conduct, and the relative safety of the alternative conduct.
 
