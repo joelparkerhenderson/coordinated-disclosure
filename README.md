@@ -44,85 +44,85 @@ Steps:
 
 ## What does the discoverer do?
 
-1. Report the issue privately in good faith.
+Report the issue privately in good faith.
 
-    * Typically good: an email sent to the producer's security contact, such as "security@example.com", with any relevant info, and any relevant questions.
+  * Typically good: an email sent to the producer's security contact, such as "security@example.com", with any relevant info, and any relevant questions.
 
-    * Typically not good: posting the report on a public blog, or alerting the media, or threats, or attempts to sell the security issue to hackers, etc.
+  * Typically bad: posting the report on a public blog, or alerting the media, or threats, or attempts to sell the security issue to hackers, etc.
 
-    * Tip: the discoverer may choose to be anonymous; the producer may also choose to be anonymous.
+  * Tip: the discoverer may choose to be anonymous; the producer may also choose to be anonymous.
 
-2. If you want, continue to be aware of the issue.
+If you want, continue to be aware of the issue.
 
-    * Typically good: opening lines of communication, or providing followup information, or monitoring the situtation.
+  * Typically good: opening lines of communication, or providing followup information, or monitoring the situtation.
 
-    * Typically not good: forgetting about the issue,
+  * Typically bad: forgetting about the issue,
 
-    * Pro tip: the discoverer may choose to help or not, and also may choose to be in communication or not, and also may choose to change the arrangement if circumstances change.
+  * Pro tip: the discoverer may choose to help or not, and also may choose to be in communication or not, and also may choose to change the arrangement if circumstances change.
 
-3. If you want, disclose the issue to others.
+If you want, disclose the issue to others.
 
-    * Typically good: waiting the specified amount of time then going public, such as posting the relevant information to a security news site, or contacting relevant third-party security researchers, or announcing the issue on any public social site, etc.
+  * Typically good: waiting the specified amount of time then going public, such as posting the relevant information to a security news site, or contacting relevant third-party security researchers, or announcing the issue on any public social site, etc.
 
-    * Typically not good: not disclosing the issue to others, unless you feel it would cause more than the comparable amount of risk to yourself or others.
+  * Typically bad: not disclosing the issue to others, unless you feel it would cause more than the comparable amount of risk to yourself or others.
 
-    * Tip: if circumstances change, such as discovery of a higher risk or active exploit in the wild, then the discoverer may disclose the issue to others sooner.
+  * Tip: if circumstances change, such as discovery of a higher risk or active exploit in the wild, then the discoverer may disclose the issue to others sooner.
 
 
 ## What does the producer do?
 
-1. Respond within the timeline.
+Respond within the timeline.
 
-    * If the discoverer does not specify a timeline, then use one business day, because this is industry standard and current industry best practice.
+  * If the discoverer does not specify a timeline, then use one business day, because this is industry standard and current industry best practice.
 
-    * If the discoverer asks questions, answer them. This is especially important if the discoverer asks for permission to test. Ensure all all answers are clear and direct.
+  * If the discoverer asks questions, answer them. This is especially important if the discoverer asks for permission to test. Ensure all all answers are clear and direct.
 
-2. Respond via an authorized security contact and/or authorized security process.
+Respond via an authorized security contact and/or authorized security process.
 
-    * For example this is good: a response from a security-specific email address, such as "security@example.com".
+  * For example this is good: a response from a security-specific email address, such as "security@example.com".
 
-    * For example these are bad: a response from a general-purpose email address, such as "help@example.com", or from anyone who is not an authorized security professional.
+  * For example these are bad: a response from a general-purpose email address, such as "help@example.com", or from anyone who is not an authorized security professional.
 
-3. Respond that the issue is recognized as a security report.
+Respond that the issue is recognized as a security report.
 
-    * Typically good: security-specific wording, such as "Our security team has received your reponsible disclosure report".
+  * Typically good: security-specific wording, such as "Our security team has received your reponsible disclosure report".
 
-    * Typically not good: general-purpose wording, such as "We appreciate your business", or pass-the-buck wording such as "We sent your email to another department".
+  * Typically bad: general-purpose wording, such as "We appreciate your business", or pass-the-buck wording such as "We sent your email to another department".
 
 
 ## What do the discover and producer both do?
 
-1. Understand that coordinated disclosure describes a good faith process.
+Understand that coordinated disclosure describes a good faith process.
 
-    * The #1 goal is good faith to help users protect themselves from security risks.
+  * The #1 goal is good faith to help users protect themselves from security risks.
 
-    * The #2 goal is good faith to address the security issue.
+  * The #2 goal is good faith to address the security issue.
 
-    * The discoverer and/or producer may choose in good faith to involve other security people, such as contacting other relevant security researchers to help with the issue.
+  * The discoverer and/or producer may choose in good faith to involve other security people, such as contacting other relevant security researchers to help with the issue.
 
-2. Understand that coordinated disclosure does not create any obligation.
+Understand that coordinated disclosure does not create any obligation.
 
-    * The discoverer and/or producer may opt-out at any time, for any reason, with or without warning. It's courteous to keep all the relevant people informed and up to date, yet this isn't always possible, or practical, or desirable.
+  * The discoverer and/or producer may opt-out at any time, for any reason, with or without warning. It's courteous to keep all the relevant people informed and up to date, yet this isn't always possible, or practical, or desirable.
 
-    * Coordinated disclosure does not create any legal agreement. If the discoverer and the producer already have a legal agreement, then we suggest that everyone involved consult the appropriate lawyers; do not use this document as legal advice.
+  * Coordinated disclosure does not create any legal agreement. If the discoverer and the producer already have a legal agreement, then we suggest that everyone involved consult the appropriate lawyers; do not use this document as legal advice.
 
-3. Understand that coordinated disclosure aims to use good communication and aims to reject threats.
+Understand that coordinated disclosure aims to use good communication and aims to reject threats.
 
-    * Coordinated disclosure is best when everyone involved understands that the #1 goal is to help users protect themselves from security risks, and the #2 goal is to address the security issue.
+  * Coordinated disclosure is best when everyone involved understands that the #1 goal is to help users protect themselves from security risks, and the #2 goal is to address the security issue.
 
-    * Coordinated disclosure rejects any kind of threat of retribution, intimidation, suspension, revocation, extortion, burden to follow up, or victim blaming.
+  * Coordinated disclosure rejects any kind of threat of retribution, intimidation, suspension, revocation, extortion, burden to follow up, or victim blaming.
 
-4. Understand that coordinated disclosure may mean different things to different people.
+Understand that coordinated disclosure may mean different things to different people.
 
-    * The discoverer and producer may have different understanding of coordinated disclosure. These understandings may not align with each other. Good faith includes everyone involved understanding this.
+  * The discoverer and producer may have different understanding of coordinated disclosure. These understandings may not align with each other. Good faith includes everyone involved understanding this.
 
-    * Some producers publish coordinated disclosure policies. These can be helpful guidance. If a discoverer chooses to use a different kind of coordinated disclosure, or has a different understanding of responsbility disclosure, this is absolutely fine.
+  * Some producers publish coordinated disclosure policies. These can be helpful guidance. If a discoverer chooses to use a different kind of coordinated disclosure, or has a different understanding of responsbility disclosure, this is absolutely fine.
 
-5. Understand that typically the discoverer is doing a favor for the publisher.
+Understand that typically the discoverer is doing a favor for the publisher.
 
-    * Typically the discoverer does not need anyone's permission to publish vulnerabilities.
+  * Typically the discoverer does not need anyone's permission to publish vulnerabilities.
 
-    * Typically the discoverer's information helps the publisher.
+  * Typically the discoverer's information helps the publisher.
 
 
 ## Guidance
@@ -132,7 +132,9 @@ Guidance for coordinated disclosure can come from many areas, such as ethics exp
 If you are seeking guidance, then you may be interested in these three areas, all describe below.
 
   * Good Samaritan
+
   * Duty to rescue
+
   * Duty of care
 
 
