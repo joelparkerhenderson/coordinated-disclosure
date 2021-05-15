@@ -1,4 +1,4 @@
-# Coordinated disclosure
+# Coordinated disclosure for security issues
 
 <img src="README.png" alt="Security icon" width="96" height="118"/>
 
