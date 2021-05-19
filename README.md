@@ -26,6 +26,15 @@ Contents:
 * [Coordinated disclosure vs. responsible disclosure](#coordinated-disclosure-vs-responsible-disclosure)
 * [Tracking](#tracking)
 
+Policies:
+
+* [CERT: Vulnerability Disclosure Policy](policies/cert/index.md)
+* [GitLab: Responsible Disclosure Policy ](policies/gitlab/index.md)
+* [Salesforce: Responsible Disclosure Policy](policies/salesforce/index.md)
+* [The Atlantic: Responsible Disclosure of Security Vulnerabilities](policies/theatlantic/index.md)
+* [Walmart: Responsible Disclosure Policy](policies/walmart/index.md)
+* [Zendesk: Responsible Disclosure Policy](policies/zendesk/index.md)
+
 
 ## Introduction
 
