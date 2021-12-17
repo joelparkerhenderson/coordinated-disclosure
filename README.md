@@ -68,25 +68,25 @@ Steps:
 
 Report the issue privately in good faith.
 
-  * Typically good: The dicoverer sends the relevant information the producer, such as via email to the producer's security email address (typicaly "security@example.com") or via web page form on the producer's website (typically "https://www.example.com/security").
+  * Good: The dicoverer sends the relevant information the producer, such as via email to the producer's security email address (typicaly "security@example.com") or via web page form on the producer's website (typically "https://www.example.com/security").
 
-  * Typically bad: posting the report on a public blog, or alerting the media, or threats, or attempts to sell the security issue to hackers, etc.
+  * Bad: posting the report on a public blog, or alerting the media, or threats, or attempts to sell the security issue to hackers, etc.
 
   * Tip: the discoverer may choose to be anonymous; the producer may also choose to be anonymous.
 
 If you want, continue to be aware of the issue.
 
-  * Typically good: opening lines of communication, or providing followup information, or monitoring the situtation.
+  * Good: opening lines of communication, or providing followup information, or monitoring the situtation.
 
-  * Typically bad: forgetting about the issue,
+  * Bad: forgetting about the issue,
 
-  * Pro tip: the discoverer may choose to help or not, and also may choose to be in communication or not, and also may choose to change the arrangement if circumstances change.
+  * Tip: the discoverer may choose to help or not, and also may choose to be in communication or not, and also may choose to change the arrangement if circumstances change.
 
 If you want, disclose the issue to others.
 
-  * Typically good: waiting the specified amount of time then going public, such as posting the relevant information to a security news site, or contacting relevant third-party security researchers, or announcing the issue on any public social site, etc.
+  * Good: waiting the specified amount of time then going public, such as posting the relevant information to a security news site, or contacting relevant third-party security researchers, or announcing the issue on any public social site, etc.
 
-  * Typically bad: not disclosing the issue to others, unless you feel it would cause more than the comparable amount of risk to yourself or others.
+  * Bad: not disclosing the issue to others, unless you feel it would cause more than the comparable amount of risk to yourself or others.
 
   * Tip: if circumstances change, such as discovery of a higher risk or active exploit in the wild, then the discoverer may disclose the issue to others sooner.
 
@@ -95,19 +95,19 @@ If you want, disclose the issue to others.
 
 Ensure contact capabilties.
 
-  * For example this is good: THe producer publishes a security contact email address (conventionally "security@example.com") and ideally a secure email encryption key.
+  * Good: THe producer publishes a security contact email address (conventionally "security@example.com") and ideally a secure email encryption key.
   
-  * For example this is good: The producer publishes a security contact web page (conventionally "https://www.example.com/security") and ideally makes the page easy to discover such as via the website's footer, sitemap, and search.
+  * Good: The producer publishes a security contact web page (conventionally "https://www.example.com/security") and ideally makes the page easy to discover such as via the website's footer, sitemap, and search.
 
-  * For example this is bad: The producer doesn't provide an email addres or a web page, or doesn't make them easy to discover.
+  * Bad: The producer doesn't provide an email addres or a web page, or doesn't make them easy to discover.
 
 Ensure staff capabilities.
 
-  * For example this is good: The producer trains support staff what to do if they receive a security inquiry, such as how to respond with contact information, or how to forward the inquiry to the right internal team.
+  * Good: The producer trains support staff what to do if they receive a security inquiry, such as how to respond with contact information, or how to forward the inquiry to the right internal team.
   
-  * For example this is good: The producer periodically verifies the staff capabilities are working.
+  * Good: The producer periodically verifies the staff capabilities are working.
 
-  * For example this is bad: The producer doesn't train or doesn't verify.
+  * Bad: The producer doesn't train or doesn't verify.
 
 Respond to the discoverer within the timeline.
 
@@ -117,15 +117,15 @@ Respond to the discoverer within the timeline.
 
 Respond to the discoverer via an authorized security contact and/or authorized security process.
 
-  * For example this is good: a response from a security-specific email address, such as "security@example.com".
+  * Good: a response from a security-specific email address, such as "security@example.com".
 
   * For example these are bad: a response from a general-purpose email address, such as "help@example.com", or from anyone who is not an authorized security professional.
 
 Respond to the discoverer that the issue is recognized as a security report.
 
-  * Typically good: security-specific wording, such as "Our security team has received your reponsible disclosure report", or "Our security process has these next steps", or "Your information is now in our security tracker with id number XYZ", etc.
+  * Good: security-specific wording, such as "Our security team has received your reponsible disclosure report", or "Our security process has these next steps", or "Your information is now in our security tracker with id number XYZ", etc.
 
-  * Typically bad: general-purpose wording, such as "We appreciate your business", or "We take security seriously", pass-the-buck wording such as "We sent your email to another department", etc.
+  * Bad: general-purpose wording, such as "We appreciate your business", or "We take security seriously", pass-the-buck wording such as "We sent your email to another department", etc.
 
 
 ## What do the discover and producer both do?
@@ -161,6 +161,17 @@ Understand that typically the discoverer is doing a favor for the publisher.
   * Typically the discoverer does not need anyone's permission to publish vulnerabilities.
 
   * Typically the discoverer's information helps the publisher.
+
+
+## What does the producer do afterward?
+
+Verify success.
+
+  * Did all the people and processes handle the disclosure successfully? If so, good. If not, then consider doing after-action research, such as root cause analysis (RCA), post-mortem reports, Isikawa diagrams, or causal analysis based on system theory (CAST).
+
+  * Are any outstanding issues triaged and tracked?
+
+  * Do the producer and discoverer both understand what to do for any next steps? This is especially impoortant to get right in case there may be any follow up coordinated disclosures.
 
 
 ## Guidance
@@ -279,12 +290,12 @@ Responsible disclosure is a deprecated term.
 
 ## Tracking
 
-* Package: coordinated_disclosure
-* Website: http://joelparkerhenderson.com/coordinated_disclosure
-* Cloning: https://github.com/joelparkerhenderson/coordinated_disclosure
-* Version: 2.5.0
+* Package: coordinated-disclosure
+* Website: http://joelparkerhenderson.com/coordinated-disclosure
+* Cloning: https://github.com/joelparkerhenderson/coordinated-disclosure
+* Version: 2.6.0
 * Created: 2017-09-21
-* Updated: 2019-01-01
-* License: GPL
+* Updated: 2021-12-17T05:41:48Z
+* License: GPL or GFDL or contact us for a custom license
 * Contact: Joel Parker Henderson (http://joelparkerhenderson.com)
 * Tracker: f44c30d1b876f8987cf78c727e573542
