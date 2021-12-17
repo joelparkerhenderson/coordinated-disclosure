@@ -68,7 +68,7 @@ Steps:
 
 Report the issue privately in good faith.
 
-  * Typically good: an email sent to the producer's security contact, such as "security@example.com", with any relevant info, and any relevant questions.
+  * Typically good: The dicoverer sends the relevant information the producer, such as via email to the producer's security email address (typicaly "security@example.com") or via web page form on the producer's website (typically "https://www.example.com/security").
 
   * Typically bad: posting the report on a public blog, or alerting the media, or threats, or attempts to sell the security issue to hackers, etc.
 
@@ -93,19 +93,35 @@ If you want, disclose the issue to others.
 
 ## What does the producer do?
 
-Respond within the timeline.
+Ensure contact capabilties.
+
+  * For example this is good: THe producer publishes a security contact email address (conventionally "security@example.com") and ideally a secure email encryption key.
+  
+  * For example this is good: The producer publishes a security contact web page (conventionally "https://www.example.com/security") and ideally makes the page easy to discover such as via the website's footer, sitemap, and search.
+
+  * For example this is bad: The producer doesn't provide an email addres or a web page, or doesn't make them easy to discover.
+
+Ensure staff capabilities.
+
+  * For example this is good: The producer trains support staff what to do if they receive a security inquiry, such as how to respond with contact information, or how to forward the inquiry to the right internal team.
+  
+  * For example this is good: The producer periodically verifies the staff capabilities are working.
+
+  * For example this is bad: The producer doesn't train or doesn't verify.
+
+Respond to the discover within the timeline.
 
   * If the discoverer does not specify a timeline, then use one business day, because this is industry standard and current industry best practice.
 
   * If the discoverer asks questions, answer them. This is especially important if the discoverer asks for permission to test. Ensure all all answers are clear and direct.
 
-Respond via an authorized security contact and/or authorized security process.
+Respond to the discover via an authorized security contact and/or authorized security process.
 
   * For example this is good: a response from a security-specific email address, such as "security@example.com".
 
   * For example these are bad: a response from a general-purpose email address, such as "help@example.com", or from anyone who is not an authorized security professional.
 
-Respond that the issue is recognized as a security report.
+Respond to the discover that the issue is recognized as a security report.
 
   * Typically good: security-specific wording, such as "Our security team has received your reponsible disclosure report".
 
