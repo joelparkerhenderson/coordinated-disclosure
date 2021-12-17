@@ -109,19 +109,19 @@ Ensure staff capabilities.
 
   * For example this is bad: The producer doesn't train or doesn't verify.
 
-Respond to the discover within the timeline.
+Respond to the discoverer within the timeline.
 
   * If the discoverer does not specify a timeline, then use one business day, because this is industry standard and current industry best practice.
 
   * If the discoverer asks questions, answer them. This is especially important if the discoverer asks for permission to test. Ensure all all answers are clear and direct.
 
-Respond to the discover via an authorized security contact and/or authorized security process.
+Respond to the discoverer via an authorized security contact and/or authorized security process.
 
   * For example this is good: a response from a security-specific email address, such as "security@example.com".
 
   * For example these are bad: a response from a general-purpose email address, such as "help@example.com", or from anyone who is not an authorized security professional.
 
-Respond to the discover that the issue is recognized as a security report.
+Respond to the discoverer that the issue is recognized as a security report.
 
   * Typically good: security-specific wording, such as "Our security team has received your reponsible disclosure report", or "Our security process has these next steps", or "Your information is now in our security tracker with id number XYZ", etc.
 
