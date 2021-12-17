@@ -123,9 +123,9 @@ Respond to the discover via an authorized security contact and/or authorized sec
 
 Respond to the discover that the issue is recognized as a security report.
 
-  * Typically good: security-specific wording, such as "Our security team has received your reponsible disclosure report".
+  * Typically good: security-specific wording, such as "Our security team has received your reponsible disclosure report", or "Our security process has these next steps", or "Your information is now in our security tracker with id number XYZ", etc.
 
-  * Typically bad: general-purpose wording, such as "We appreciate your business", or pass-the-buck wording such as "We sent your email to another department".
+  * Typically bad: general-purpose wording, such as "We appreciate your business", or "We take security seriously", pass-the-buck wording such as "We sent your email to another department", etc.
 
 
 ## What do the discover and producer both do?
