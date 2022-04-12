@@ -95,7 +95,7 @@ If you want, disclose the issue to others.
 
 Ensure contact capabilties.
 
-  * Good: THe producer publishes a security contact email address (conventionally "security@example.com") and ideally a secure email encryption key.
+  * Good: The producer publishes a security contact email address (conventionally "security@example.com") and ideally a secure email encryption key.
   
   * Good: The producer publishes a security contact web page (conventionally "https://www.example.com/security") and ideally makes the page easy to discover such as via the website's footer, sitemap, and search.
 
